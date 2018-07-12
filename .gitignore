@@ -1,0 +1,21 @@
+# Visual Studio
+*.suo
+*.sdf
+*.tlog
+*.idb
+*.opensdf
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.log
+*.obj
+*.user
+*.ilk
+*.exe
+*.ipch
+*.tmp
+*.pdb
+*.db
+*.opendb
+*.pbi
+*.bak
